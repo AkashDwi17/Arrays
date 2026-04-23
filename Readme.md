@@ -3,7 +3,7 @@ Array is the list of element of the same type placed in a contiguous memory Loca
 ## Important
 “Java is strictly pass-by-value. For arrays, the reference is passed by value, allowing modification of elements but not reassignment.”
 
-OPERATION IN ARRAY
+## OPERATION IN ARRAY
 
 1. Create
 2. Input
